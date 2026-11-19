@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+# Generated embedding artifacts (rebuilt by preprocess_json.py)
+embeddings.json
+embeddings.joblib
+
+# Media
+*.mp3
+*.mp4
+
+# Environments / secrets
+.env
+.venv/
+venv/

@@ -391,5 +391,4 @@ Built with ❤️ by [utkarsh-sh](https://github.com/utkarsh-sh)
 ⭐ **Star this repo if Eureka saved you from scrubbing through videos!** ⭐
 
 </div>
-#   R A G - b a s e d - t e a c h i n g - a g e n t  
- 
+# RAG-based-teaching-agent
